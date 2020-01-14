@@ -1,1 +1,4 @@
-# jangjang4180.github.io
+# About Me
+
+Jekyll  
+minima theme
