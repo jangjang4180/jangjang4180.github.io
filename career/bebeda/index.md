@@ -1,6 +1,6 @@
 ---
 layout: page
-title : 베베다
+title : 외주 개발
 ---
 
 {% include bebeda.md %}

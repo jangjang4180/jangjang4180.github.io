@@ -10,7 +10,7 @@
 ---
 
 ## 경력
-### 베베다(Bebeda)
+### 외주 개발
 {% include bebeda.md %}
 
 ### 잼잼테라퓨틱스(Gemgem Therapeutics)
