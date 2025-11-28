@@ -1,3 +1,6 @@
+### 웹
+* [Korean Mate - Learning Korean with Stories](/projects/web/koreanmate.html)
+* [인버즈 짠견적 - 혁신적인 인테리어 솔루션](/projects/web/inbuzz.html)  
 
 ### 앱
 * [잼잼400 - 집에서 즐기는 재활운동 게임](/projects/app/gemgem400.html)
@@ -9,9 +12,6 @@
 * [청담스마트매니저 - AR스티커, 필터 및 프레임 기능](/projects/app/smartmanager.html)
 * [PQ - 데이팅 앱](/projects/app/pq.html)
 * [캐치잇 잉글리시 - 영단어, 영어회화, 스피킹 한 번에](/projects/app/cie.html)
-
-### 웹
-* [인버즈 짠견적 - 혁신적인 인테리어 솔루션](/projects/web/inbuzz.html)  
 
 ### 게임
 * [앨리스 퍼즐 게임](/projects/game/alice.html)
